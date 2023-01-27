@@ -1,0 +1,46 @@
+.top-container {
+  background-color: #aae3e2;
+
+  /* border: solid; */
+  padding-top: 100px;
+}
+body {
+  margin: 0;
+  text-align: center;
+}
+h1 {
+  /* margin-top: 0px; */
+  /* position: relative;
+  top: 20px; */
+  margin: 0 auto 0 auto;
+  font-family: "Indie Flower", cursive;
+}
+.outside {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 30px;
+  right: 300px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+}
+p {
+  font-family: "Merriweather", serif;
+}
+/* .bottom-container {
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+} */
+.pic {
+  border-radius: 100%;
+}
+h3 {
+  font-family: "Unbounded", cursive;
+}
