@@ -71,7 +71,7 @@ h2 {
 }
 .pic-2 {
   border-radius: 100%;
-  float: left;
+  float: right;
   /* clear: both; */
   padding: 30px;
 }
