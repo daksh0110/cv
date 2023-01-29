@@ -34,6 +34,8 @@ h1 {
 }
 p {
   font-family: "Merriweather", serif;
+  line-height: 2;
+  padding: 30px;
 }
 /* .bottom-container {
   height: 200px;
@@ -43,6 +45,12 @@ p {
 .pic {
   border-radius: 100%;
 }
+.pic-1 {
+  border-radius: 100%;
+  float: left;
+  clear: both;
+  padding: 30px;
+}
 h3 {
   font-family: "Unbounded", cursive;
 }
@@ -50,4 +58,20 @@ h2 {
   font-size: 2.5rem;
   color: #66bfbf;
   font-weight: normal;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  overflow: auto;
+}
+.align {
+  text-align: left;
+}
+.pic-2 {
+  border-radius: 100%;
+  float: left;
+  /* clear: both; */
+  padding: 30px;
 }
