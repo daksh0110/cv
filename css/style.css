@@ -48,8 +48,7 @@ p {
 .pic-1 {
   border-radius: 100%;
   float: left;
-  margin-left: 50%;
-  position: relative;
+
   clear: both;
   padding: 30px;
 }
