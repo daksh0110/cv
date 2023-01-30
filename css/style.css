@@ -1,5 +1,5 @@
 .top-container {
-  background-color: #aae3e2;
+  background-color: #eaf6f6;
 
   /* border: solid; */
   padding-top: 100px;
@@ -74,4 +74,15 @@ h2 {
   float: right;
   /* clear: both; */
   padding: 30px;
+}
+.intro {
+  text-align: center;
+  color: #40514e;
+}
+hr {
+  border-top: dotted 10px;
+  border-color: #eaf6f6;
+  border-bottom: 0px;
+  border-left: 0px;
+  width: 5%;
 }
